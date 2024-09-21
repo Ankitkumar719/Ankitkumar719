@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ankitkumar.
+- 👋 Hi, I’m @Ankit kumar.
 - 👀 I’m interested in knowing latest technology.
 - 🌱 I’m currently learning B.Tech in CSE.
 - 😄 Pronouns: He/Him
