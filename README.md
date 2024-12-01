@@ -32,12 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankitkumar719&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -47,4 +42,17 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
+<div align="center">
+  
+# <h2 align="center">📊 GitHub Stats:</h2>
+![](https://github-readme-stats.vercel.app/api?username=Ankitkumar719&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ankitkumar719&theme=highcontrast&hide_border=true)<br/>
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ankitkumar719&icon=10&color=13)](https://visitcount.itsvg.in)
+</div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
