@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="center">My name is Ankit kumar and I'm a B.Tech Second Year Student, from Sagar Institute of Science and Technology, Bhopal.</h5>
+<h4 align="center">My name is Ankit kumar and I'm a B.Tech Second Year Student, from Sagar Institute of Science and Technology, Bhopal.</h4>
 
 ###
 
