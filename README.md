@@ -6,7 +6,7 @@
 
 ###
 
-<p><h2 align="center">About me</h2></p>
+<h2 align="center">About me</h2>
 
 ###
 
